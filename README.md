@@ -1,10 +1,10 @@
-**Title:** Simple-Writer
+# Simple-Writer
 
-**Description:**
+## **Description:**
 
 Simple-Writer is a minimalist and distraction-free online writing tool designed to enhance your creative writing experience. With a clean and straightforward interface, it offers a serene environment, allowing writers to focus solely on their thoughts and ideas.
 
-**Features:**
+## **Features:**
 
 1. **Distraction-Free Interface:**
    - Simple-Writer provides a clutter-free writing space, eliminating unnecessary distractions to keep you focused on your writing.
@@ -24,7 +24,7 @@ Simple-Writer is a minimalist and distraction-free online writing tool designed 
 6. **Keyboard Shortcuts:**
    - Enhance your writing efficiency with handy keyboard shortcuts like Ctrl+A for selecting all text.
 
-**Usage:**
+## **Usage:**
 
 1. **Start Writing:**
    - Simply click on the writing area and start typing. The initial placeholder text will automatically clear as you begin.
@@ -38,6 +38,6 @@ Simple-Writer is a minimalist and distraction-free online writing tool designed 
 4. **Continue Anytime:**
    - Close the tab or window without worry! Your content will be automatically saved and available the next time you visit Simple-Writer.
 
-**Our Vision:**
+## **Our Vision:**
 
 Simple-Writer envisions to be a user-friendly and efficient tool for writers seeking a tranquil and focused writing environment. Whether you are drafting a poem, jotting down thoughts, or composing a story, Simple-Writer is here to facilitate your creative journey. Enjoy writing without boundaries!
